@@ -1,2 +1,2 @@
-# Fuzzy Logic
+# Setting tips with fuzzy logic
  
